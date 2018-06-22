@@ -5,8 +5,8 @@
     <classes>
       <class name="com.prestashop.tests.PositiveScenarios">
         <methods>
+          <include name="loginClick"/>
           <include name="setUp"/>
-          <include name="set"/>
         </methods>
       </class> <!-- com.prestashop.tests.PositiveScenarios -->
     </classes>
